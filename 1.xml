@@ -1,0 +1,26 @@
+<annotation>
+	<folder>simple tatoo</folder>
+	<filename>1.c115c0b3b88a2c617ae6ee3bfb90a0a1.jpg</filename>
+	<path>C:\Users\wmnlab\Desktop\downloads\simple tatoo\1.c115c0b3b88a2c617ae6ee3bfb90a0a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>191</ymin>
+			<xmax>404</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

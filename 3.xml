@@ -1,0 +1,26 @@
+<annotation>
+	<folder>simple tatoo</folder>
+	<filename>3.manly-simple-tattoos-for-men.jpg</filename>
+	<path>C:\Users\wmnlab\Desktop\downloads\simple tatoo\3.manly-simple-tattoos-for-men.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>486</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tatoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>102</ymin>
+			<xmax>365</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
